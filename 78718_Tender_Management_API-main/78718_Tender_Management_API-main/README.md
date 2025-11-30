@@ -127,7 +127,6 @@ This project is a REST API service built using Spring Boot for managing bidding 
 Contributions are welcome! Please feel free to submit issues or pull requests to improve this project.  
 
 If you'd like to support the development of this project, you can buy me a coffee:  
-**GPay**: +91-9074023334  
 
 Your support is greatly appreciated!  
 
